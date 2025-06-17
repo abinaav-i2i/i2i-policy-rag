@@ -67,8 +67,13 @@ Interactive console for policy questions:
 ## Key Features
 
 **Metadata-preserving document ingestion**
+
 **Context-aware text segmentation**
+
 **Local vector store implementation**
+
 **Diversity-optimized retrieval**
+
 **Verifiable answer generation**
+
 **Dual-mode operation (build/query)**
